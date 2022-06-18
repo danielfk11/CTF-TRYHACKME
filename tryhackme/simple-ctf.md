@@ -10,13 +10,14 @@ que mostrou as duas primeiras flags.
 
 Apos isso usando a ferramenta Gobuster mostrou que o ip tinha um /simple que era uma aplicacao web, ao entrar vimos a versao que foi feita("CMS 2.2.10") ao procurar exploits encotrase um sql injection assim descobrindo mais duas flags.
 
-<br>
+
+     gobuster dir -u http://10.10.250.145/ -w directory-list-2.3-medium.txt -t 100
+
 
 Ao rodar o script em python na aplicacao web era possivel encontrar o user mitch e sua senha. Ao entrar no usuario mitch pelo ssh tinhamos acesso a mais uma flag em um arquivo .txt
 
     $ python2 46635.py -u http://10.10.250.145/simple/ --crack -w /usr/share/wordlists/rockyou.txt
 
-<br>
 
 Em seguida usamos o reverseshell conseguiamos ter acesso root e ler a pasta root e concluindo o desafio.
 
