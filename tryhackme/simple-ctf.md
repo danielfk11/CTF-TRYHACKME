@@ -8,7 +8,7 @@ que mostrou as duas primeiras flags.
 
 <br>
 
-Apos isso usando a ferramenta Gobuster mostrou que o ip tinha um /simple que era uma aplicacao web, ao entrar vimos a versao que foi feita("CMS 2.2.10") ao procurar exploits encotrase um sql injection assim descobrindo mais duas flags.
+Apos isso usando a ferramenta Gobuster mostrou que o ip tinha um /simple que era uma aplicacao web, ao entrar vimos a versao que foi feita("CMS 2.2.10") ao procurar exploits encotrei um sql injection assim descobrindo mais duas flags.
 
 
      gobuster dir -u http://10.10.250.145/ -w directory-list-2.3-medium.txt -t 100
