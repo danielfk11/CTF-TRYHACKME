@@ -5,7 +5,7 @@ Ao gerar o ip precisamos dar um nmap para ver as informacoes do ip
     sudo nmap -sS "ip"
     
 verificando assim, que tinham duas portas abertas ssh 22 e apache 80 http 
-para verificar a versao do apache:
+para verificar a versao do apache usei o comando:
 
     sudo nmap -sV -p80 "ip"
 
