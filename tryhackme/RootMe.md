@@ -1,6 +1,6 @@
 CTF ROOTME
 
-Ao ver o ip precisavamos dar um nmap para ver 
+Ao gerar o ip precisamos dar um nmap para ver as informacoes do ip
 
     sudo nmap -sS "ip"
     
