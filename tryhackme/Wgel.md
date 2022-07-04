@@ -56,7 +56,7 @@ agora sim se tornando possivel invadir o sistema
 
     sudo ssh -i id_rsa jessi@IP
 
-entrando no usuario jessi era so procurar pela 1 flag que se encotrava na pasta Documents
+entrando no usuario jessi era so procurar pela 1 flag que se encontrava na pasta Documents
 
     cd Documents
     cat user_flag.txt
