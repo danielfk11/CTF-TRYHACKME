@@ -10,7 +10,7 @@ apos ver um apache instalado dei um gobuster para ver os diretorios, usei a word
 
 ao encontrar os diretorio /sitemap dei um gobuster novamente mas agora filtrando o /sitemap
 
-    gobuster dr -u IP/sitemap -w /usr/share/dirb/wordlist/commom.txt
+    gobuster dir -u IP/sitemap -w /usr/share/dirb/wordlist/commom.txt
 
 assim encontrando a pagina principal do desafio ao procurar na pagina pelo css, js, etc.. encontrava-se 2 informacoes importantes. No codigo fonte do apache tinha mencao a um possivel usuario(jessie) e no /sitemap/index.html tambem tinha mencao a jessie assim dando a entender que seria o usuario jessie
 
