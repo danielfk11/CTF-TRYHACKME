@@ -12,14 +12,16 @@ sendo o ftp anonymous era so entrar...
     username: anonymous
     pass: no pass
 
-3 arquivos
+Ao entrar no ftp encontrava-se 3 arquivos
 
     ftp
     notice.txt
     important.jpg
 
 Ao ler o notice.txt encontrava-se um possivel username Maya
-
+    
+    cat notice.txt
+    
 Ao baixar a imagem e abri-la tinha um meme do among us...
 
     get important.jpg
