@@ -119,5 +119,3 @@ FLAGS
     Flag 3: THM{f963aaa6a430f210222158ae15c3d76d}
 
 ![image](https://user-images.githubusercontent.com/86691253/183748747-f4abcbe4-48b4-4b4f-b198-b87965cb371e.png)
-![image](https://user-images.githubusercontent.com/86691253/183748759-793db94e-3539-4cce-a34f-f7f24a30c2cd.png)
-![image](https://user-images.githubusercontent.com/86691253/183748774-6a6245d1-c26f-4fec-bbbc-8d2a9920e6cb.png)
