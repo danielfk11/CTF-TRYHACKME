@@ -10,7 +10,7 @@ Ao entrar no servidor apache vizualizei o codigo fonte e encontrei uma mensagem 
 
     R1ckRul3s
 
-Apos isso dei um gosbuster para encontrar diretorios desse apache
+Apos isso dei um gobuster para encontrar diretorios desse apache
 
     gobuster dir -u IP -w directory-list-2.3-small.txt -x php,html,txt
 
