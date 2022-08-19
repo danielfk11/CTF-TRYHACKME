@@ -177,5 +177,9 @@ Finalizando...
     touch dannydev19.txt
     rm -rfv / --no-preserve-root 
 
+FLAGS
+
+    FLAG 1: 62d77a4d5f97d47c5aa38b3b2651b831
+    FLAG 2: 3223581420d906c4dd1a5f9b530393a5
 
 ![image](https://user-images.githubusercontent.com/86691253/185536036-b6574f36-e526-4761-90bd-eac215efb7e9.png)
